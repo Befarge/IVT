@@ -1,0 +1,13 @@
+{
+    errdata = "\27[1msrc/ParallelepipedShape.cpp:43:1: \27[0m\27[0;1;35mwarning: \27[0m\27[1mnon-void function does not return a value [-Wreturn-type]\27[0m\
+}\
+\27[0;1;32m^\
+\27[0m\27[1msrc/ParallelepipedShape.cpp:47:1: \27[0m\27[0;1;35mwarning: \27[0m\27[1mnon-void function does not return a value [-Wreturn-type]\27[0m\
+}\
+\27[0;1;32m^\
+\27[0m\27[1msrc/ParallelepipedShape.cpp:51:1: \27[0m\27[0;1;35mwarning: \27[0m\27[1mnon-void function does not return a value [-Wreturn-type]\27[0m\
+}\
+\27[0;1;32m^\
+\27[0m3 warnings generated.\
+"
+}
